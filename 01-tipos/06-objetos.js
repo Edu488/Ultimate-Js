@@ -10,3 +10,13 @@ let personaje = {
 };
 
 console.log(personaje);
+console.log(personaje.nombre);
+console.log(personaje['anime']);
+
+personaje.edad = 13;
+personaje['nombre'] = "Shinoub";
+
+let llave = 'edad';
+personaje[llave] = 16;
+console.log(personaje.edad)
+delete personaje.anime;

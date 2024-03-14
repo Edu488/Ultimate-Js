@@ -3,5 +3,5 @@ let texto = "hola mundo";
 let verdadero = true;
 let falso = false;
 let noDefenido;
-lef undef = undefined;
+let undef = undefined;
 let nulo = null;
