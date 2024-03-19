@@ -1,4 +1,4 @@
-let accion = 'salta';
+let accion = 'hola';
 
 switch(accion){
 
