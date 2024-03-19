@@ -4,7 +4,7 @@ function cualEsMayor(a, b) {
     //    }else{
     //     return(b);
     //}
-    return  (a > b) ? a : b;
+    //return  (a > b) ? a : b;
        
       
 }
