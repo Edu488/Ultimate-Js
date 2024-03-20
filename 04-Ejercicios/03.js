@@ -1,4 +1,5 @@
 //indice que el valor no sea menor q cero y q exita en el array
+.
 
 
 function getbyIdx(arr, idx){
@@ -7,7 +8,7 @@ function getbyIdx(arr, idx){
 //         return 'elemento no existe';
 //     }
 //     return arr[idx];
-// }
+}
 
  let resultado =  getbyIdx ([1, 2], 2)
 
