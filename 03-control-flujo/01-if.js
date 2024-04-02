@@ -9,6 +9,6 @@ else if(edad > 13){
 
 }
 
-// else {
-//      console.log('no puede entar ');
-// }
+else {
+     console.log('no puede entar ');
+}
